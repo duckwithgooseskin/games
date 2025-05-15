@@ -1,0 +1,120 @@
+{
+  "name": "Jim Rummy",
+  "assets": [
+    {
+      "id": "2",
+      "name": "DeckUtil",
+      "type": "script"
+    },
+    {
+      "id": "4",
+      "name": "CardActor",
+      "type": "script"
+    },
+    {
+      "id": "9",
+      "name": "Hand",
+      "type": "script"
+    },
+    {
+      "id": "12",
+      "name": "Shuffler",
+      "type": "script"
+    },
+    {
+      "id": "7",
+      "name": "DeckActor",
+      "type": "script"
+    },
+    {
+      "id": "13",
+      "name": "TextBoxActor",
+      "type": "script"
+    },
+    {
+      "id": "24",
+      "name": "IntroActor",
+      "type": "script"
+    },
+    {
+      "id": "25",
+      "name": "RestartActor",
+      "type": "script"
+    },
+    {
+      "id": "0",
+      "name": "Game",
+      "type": "script"
+    },
+    {
+      "id": "26",
+      "name": "Restart",
+      "type": "sprite"
+    },
+    {
+      "id": "3",
+      "name": "CardFaces",
+      "type": "sprite"
+    },
+    {
+      "id": "5",
+      "name": "CardBacks",
+      "type": "sprite"
+    },
+    {
+      "id": "10",
+      "name": "bg",
+      "type": "sprite"
+    },
+    {
+      "id": "15",
+      "name": "TextBoxSprite",
+      "type": "sprite"
+    },
+    {
+      "id": "16",
+      "name": "MouseIcon",
+      "type": "sprite"
+    },
+    {
+      "id": "17",
+      "name": "IntroJim",
+      "type": "sprite"
+    },
+    {
+      "id": "18",
+      "name": "GameJim",
+      "type": "sprite"
+    },
+    {
+      "id": "19",
+      "name": "IntroBg",
+      "type": "sprite"
+    },
+    {
+      "id": "20",
+      "name": "Title",
+      "type": "sprite"
+    },
+    {
+      "id": "14",
+      "name": "MessageFont",
+      "type": "font"
+    },
+    {
+      "id": "21",
+      "name": "jimTalk",
+      "type": "sound"
+    },
+    {
+      "id": "22",
+      "name": "cardMove",
+      "type": "sound"
+    },
+    {
+      "id": "23",
+      "name": "bgm",
+      "type": "sound"
+    }
+  ]
+}

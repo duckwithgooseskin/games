@@ -1,0 +1,58 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 100,
+  "framesPerSecond": 7,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 100,
+    "height": 88
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "talk",
+      "startFrameIndex": 0,
+      "endFrameIndex": 1,
+      "speed": 1
+    },
+    {
+      "id": "1",
+      "name": "facepalm",
+      "startFrameIndex": 2,
+      "endFrameIndex": 3,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "angry",
+      "startFrameIndex": 4,
+      "endFrameIndex": 5,
+      "speed": 1
+    },
+    {
+      "id": "3",
+      "name": "crossed",
+      "startFrameIndex": 6,
+      "endFrameIndex": 7,
+      "speed": 1
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}
