@@ -1,0 +1,33 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        7,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Stage intros"
+            ],
+            [
+                "I'M SURE IT'S JUST THE FLU. THE SCAN MUST BE EXAGGERATING THE INFECTION. IT NEVER HURTS TO BE CAUTIOUS, BUT DOGNAME WILL BE FINE.\n\nI'LL KICK THE VIRUS OUT OF HIS BODY IN NO TIME!"
+            ],
+            [
+                "DAMMIT! THERE ARE WAY MORE OF THEM THAN I EXPECTED! THIS ISN'T JUST SOME MINOR INFECTION, IT'S A FULL-SCALE INVASION.\n\nNO MATTER. IF THEY WANT A FIGHT, I'LL WIPE OUT EVERY LAST ONE OF THEM!"
+            ],
+            [
+                "THERE HAS TO BE SOMETHING I'M MISSING. MAYBE IF I NEUTRALIZE BACTERIA MORE QUICKLY? MAYBE IF I TRY A DIFFERENT APPROACH?\n\nI JUST NEED MORE TIME."
+            ],
+            [
+                "WHY ISN'T THIS WORKING? I'VE FOUGHT SO HARD... BUT DOGNAME IS STILL STRUGGLING TO BREATHE.\n\nI DON'T KNOW WHAT ELSE TO DO."
+            ],
+            [
+                "FORGIVE ME, DOGNAME. I WANTED TO SAVE YOU, BUT... MAYBE ALL I CAN DO NOW IS MAKE THIS EASIER FOR YOU.\n\nI'M HERE, BUDDY.\n\nYOU'RE NOT ALONE."
+            ],
+            [
+                "I THINK I KNOW WHAT I MUST DO. THERE IS HOPE STILL."
+            ]
+        ]
+    ]
+}

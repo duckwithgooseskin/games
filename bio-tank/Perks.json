@@ -1,0 +1,63 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        17,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Health Up"
+            ],
+            [
+                "Range Up"
+            ],
+            [
+                "Damage Up"
+            ],
+            [
+                "Speed Up"
+            ],
+            [
+                "Add Orbital"
+            ],
+            [
+                "Double Barrel"
+            ],
+            [
+                "Fire Rate Up"
+            ],
+            [
+                "Bark Up"
+            ],
+            [
+                "Quicker Bullets"
+            ],
+            [
+                "Shield"
+            ],
+            [
+                "Toxic Creep"
+            ],
+            [
+                "Back Shot"
+            ],
+            [
+                "Homing Shot"
+            ],
+            [
+                "Bigger Bullets"
+            ],
+            [
+                "Ricochet"
+            ],
+            [
+                "Piercing"
+            ],
+            [
+                "Split Shot"
+            ]
+        ]
+    ]
+}
