@@ -1,0 +1,15 @@
+{
+"companyName": "Umbrella",
+"productName": "DTM",
+"productVersion": "1.2.19",
+"dataUrl": "build2.data.unityweb",
+"wasmCodeUrl": "build2.wasm.code.unityweb",
+"wasmFrameworkUrl": "build2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
